@@ -1,5 +1,5 @@
 import React from 'react';
-import Breadcrumbs from 'components/Breadcrumbs';
+import Breadcrumbs from 'omni-common-ui/lib/components/Breadcrumbs';
 import Showcase from 'components/Showcase';
 
 const BreadcrumbsShowcase = () => {

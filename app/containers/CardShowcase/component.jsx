@@ -1,9 +1,8 @@
 import sampleImage from './sample-image.jpg';
 
 import React from 'react';
-import { Card, PageCard, Button, Grid } from 'omni-common-ui';
+import { Card, PageCard, Button, Grid, log } from 'omni-common-ui';
 import Showcase from 'components/Showcase';
-import log from 'domain/log';
 
 const CardShowcase = () => <Showcase title="Cards" titleLink="cards">
   <PageCard>

@@ -1,10 +1,10 @@
-import 'assets/styles/base/base.postcss';
+import 'omni-common-ui/lib/assets/styles/base/base.postcss';
 
 import is from 'is_js';
 import React from 'react';
 import { render } from 'react-dom';
 import { Router, browserHistory } from 'react-router';
-import parseRoutes from 'domain/parseRoutes';
+import parseRoutes from 'omni-common-ui/lib/domain/parseRoutes';
 
 import routes from './routes';
 

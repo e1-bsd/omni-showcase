@@ -1,10 +1,9 @@
 import React, { Component } from 'react';
+import { Button, Form, log } from 'omni-common-ui';
 import Showcase from 'components/Showcase';
-import { Button, Form } from 'omni-common-ui';
 import SelectShowcase from './SelectShowcase';
 import RadioShowcase from './RadioShowcase';
 import CheckboxShowcase from './CheckboxShowcase';
-import log from 'domain/log';
 
 class FormShowcase extends Component {
   constructor(props) {

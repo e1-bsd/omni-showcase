@@ -1,9 +1,8 @@
 import styles from './style.postcss';
 
 import React from 'react';
-import { Button } from 'omni-common-ui';
+import { Button, log } from 'omni-common-ui';
 import Showcase from 'components/Showcase';
-import log from 'domain/log';
 
 const ButtonShowcase = () => <Showcase title="Buttons" titleLink="buttons"
     className={styles.ButtonShowcase_wrap}>
