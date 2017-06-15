@@ -1,4 +1,4 @@
-import 'omni-common-ui/lib/assets/styles/base/base.postcss';
+import 'assets/styles/base/base.postcss';
 
 import is from 'is_js';
 import React from 'react';
