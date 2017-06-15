@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/e1-bsd/omni-showcase#readme",
   "dependencies": {
+    "babel-plugin-module-resolver": "^2.7.1",
     "omni-common-ui": "^0.19.1"
   }
 }
