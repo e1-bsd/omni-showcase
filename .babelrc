@@ -3,8 +3,11 @@
   "plugins": [
     [
       "module-resolver", {
-        "root": ["./app"]
-      }
+        "root": ["./app"],
+        "alias": {
+          "react-radial-progress": "react-radial-progress-sans-animation"
+        }
+      },
     ]
   ]
 }
