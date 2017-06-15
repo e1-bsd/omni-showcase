@@ -1,0 +1,16 @@
+/dist*
+/coverage
+/node_modules
+/bower_components
+/npm-debug.log
+/npm-debug.log.*
+/.idea
+/.dlls
+/selenium-debug.log
+/test-results
+/package-stats.html
+/gemini-report
+/.gemini.conf.json
+/**/*.log
+/.vagrant
+/.happypack

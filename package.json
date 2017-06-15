@@ -1,0 +1,22 @@
+{
+  "name": "omni-showcase",
+  "version": "1.0.0",
+  "description": "Omni's components for all",
+  "private": true,
+  "scripts": {
+    "start": "omni-start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/e1-bsd/omni-showcase.git"
+  },
+  "author": "E1 BSD",
+  "bugs": {
+    "url": "https://github.com/e1-bsd/omni-showcase/issues"
+  },
+  "homepage": "https://github.com/e1-bsd/omni-showcase#readme",
+  "dependencies": {
+    "omni-common-ui": "^0.19.1"
+  }
+}
